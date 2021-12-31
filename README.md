@@ -1,6 +1,16 @@
-# CRYPTO TRADE LIST
+# Tradingview Crypto List on Binance
 
-# RUN
+## Parameters
+
+```js
+// update these parameter
+const QUOTE = "BUSD";
+const MIN_VOL_MILLION = 6;
 ```
-    node app.js
+
+## Usage
+
+```
+    npm install
+    npm run build
 ```
